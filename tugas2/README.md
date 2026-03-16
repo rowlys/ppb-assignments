@@ -1,5 +1,9 @@
 # Tugas 2: Widget & State
 
+**Nama  : Basten Andika Salim**
+
+**NRP   : 5025231132**
+
 Aplikasi ini diciptakan menggunakan banyak Widget yang secara garis besar dibagi menjadi tiga kelas, yaitu kelas MyApp, kelas RowColumnPage, dan kelas CounterCard. Script secara langsung memanggil MyApp yang menjalankan RowColumnPage pada MaterialApp sebagai home, sedangkan CounterCard dipanggil di dalam RowColumnPage.
 
 #### A. MyApp
