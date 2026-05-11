@@ -19,3 +19,14 @@ Aplikasi alarm Android yang mengharuskan pengguna **memindai objek nyata** mengg
 
 ## Screenshot
 
+### Home Screen
+<img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/fd9177b6-5603-4352-bf8f-0166155c59b3" />
+
+### Camera Screen
+<img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/8431e183-958b-40ab-9808-6c7e0be0ecc4" />
+
+### Alarm Screen
+<img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/e3643f61-89ac-4462-88cb-66a119c8b500" />
+
+### Math Fallback
+<img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/50421d0a-f7d7-4e51-be4f-ceeb19b01b61" />
